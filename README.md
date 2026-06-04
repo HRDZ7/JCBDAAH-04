@@ -1,8 +1,14 @@
-Used Car Market Analysis
+Used Car Market Analysis.
+
+
 Overview
 
+We are team Epsilon (Hendro Iman Pangestu, Fakhri Unggul Indito, Ferdinand Leonardi)
+
 Our user is used-car selling platform listing websites or apps.
+
 We run algorithm to make the best price-based segmentation for each dataset given to us.
+
 This project explores the dynamics of the used car market through statistical analysis, data visualization, and pricing behavior assessment.
 The objective is to identify THE PRICE DRIVER that influence vehicle pricing, negotiation tendencies, and market competitiveness across different brands and vehicle conditions.
 
@@ -51,8 +57,11 @@ Jupyter Notebook
 
 Business Value: 
 The insights generated from this analysis can support:
+
 1.Most Optimized price-based segmentation strategies
+
 2.Used car buyers seeking stronger negotiation opportunities.
+
 3.Data analysts exploring consumer behavior in automotive marketplaces.
 
 Future Enhancements :
